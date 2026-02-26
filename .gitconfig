@@ -1,0 +1,15 @@
+[user]
+	name = Vadzim-Asipovich
+	email = deathrezen@gmail.com
+[init]
+	defaultBranch = main
+[webflyx]
+	ceo = ThePrimeagen
+	cto = TheLaneagen
+	valuation = mid
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/vadzim/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/vadzim/.local/bin/gh auth git-credential
